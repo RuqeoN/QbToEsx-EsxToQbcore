@@ -1,4 +1,4 @@
-# QbusToEsx Qbus Scriptleri ESX e Çevirme, Durmaksızın Güncell.
+# QBCore to esx convert // ESX to qbcore convert
 # Discord : https://discord.gg/pFmBfQDhbU
 # Website : www.leakgg.com
 --------------------------------------------------------------------------------------------------
